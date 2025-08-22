@@ -50,7 +50,7 @@
     "ansi": "^0.3.0",
     "autoprefixer-stylus": "^1.0.0",
     "benchmark": "~2.1.0",
-    "chai": "^4.2.0",
+    "chai": "^6.0.0",
     "coveralls": "^3.0.4",
     "eslint": "^8.4.1",
     "express": "^4.14.0",
