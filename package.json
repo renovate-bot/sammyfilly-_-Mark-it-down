@@ -52,7 +52,7 @@
     "benchmark": "~2.1.0",
     "chai": "^4.2.0",
     "coveralls": "^3.0.4",
-    "eslint": "^8.4.1",
+    "eslint": "^10.0.0",
     "express": "^4.14.0",
     "gh-pages": "^6.0.0",
     "highlight.js": "^10.7.2",
